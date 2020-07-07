@@ -1,0 +1,52 @@
+L3=wwwwwwwskkkwwwkwswwskwwwwwkkzwwwwwww
+Maze has no start point.
+
+L4=wwwwbwwskkkwwwkwswwskwwwwwkkswwwwwww
+Maze has no finish point.
+
+L5=wwwbwwwskkkwwwwwswwskwwwwwkkzwwwwwww
+Finish cannot be reached.
+
+L6=wwwbwwkskkkwwwkwswwskwwwwwkkzwwwwwww
+Maze has a hole in the wall.
+
+L1=wwwbwwwskkkwwwkwswwskwwwwwkkzwwwwwww
+# # # # # # 
+# s # s # # 
+# * * * * # 
+b * # # * # 
+#   s # z # 
+# # # # # # 
+
+Distance to finish 8
+Entering the maze.
+east
+north
+east
+east
+east
+south
+Finish.
+
+L2=wwwwwwwwwswkkkswwkwkwzwwwkkkwwswbkwwswkwwkkkkwkwwswwkkkwwwwwwwww
+# # # # b # # # 
+# s   * *   s # 
+# # # * #   # # 
+# * * * #   # # 
+# * # # s     # 
+# * z # # #   # 
+# s # s       # 
+# # # # # # # # 
+
+Distance to finish 10
+Entering the maze.
+south
+east
+south
+south
+west
+west
+south
+south
+Finish.
+
